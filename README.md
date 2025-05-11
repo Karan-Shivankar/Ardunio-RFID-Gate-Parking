@@ -1,6 +1,7 @@
 # Ardunio-RFID-Gate-Parking
 🚗 Arduino-Based Gate Parking System Using RFID
 This project is an automated parking gate system using RFID and Arduino. Vehicles with registered RFID cards are granted access, and the gate opens automatically. It enhances parking security and efficiency by automating the vehicle entry process.
+VIDEO LINK : https://www.linkedin.com/posts/karan-shivankar-858011282_arduino-autoamtion-teamkyzer-activity-7309258625850466304-ThUN?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAESzfIQBYqDUkZfbGyoSHtqAjCeZoc9pNcQ
 
 📦 Project Overview
 This system simulates a real-world gate entry mechanism commonly used in parking lots, offices, and residential complexes. The RFID reader detects an RFID tag, and upon successful identification, the Arduino controls a servo motor to open the gate.
